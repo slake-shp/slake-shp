@@ -4,6 +4,18 @@
 ## Who am I?
 My name is Sian and I am a GIS Analyst who loves to work with data and create interesting outputs for clients as well as for fun projects! I have a BSc (Hons) in Geography and a MSc in Geographical Information Science and am also a qualified Lowland Leader who volunteers with the Duke of Edinburgh Award. I think it is fair to say I enjoy maps and learning about the world around me. 🗺️
 
+## Some of my skills...
+![Static Badge](https://img.shields.io/badge/QGIS-green)
+![Static Badge](https://img.shields.io/badge/ArcGIS%20Pro-blue)
+![Static Badge](https://img.shields.io/badge/R-orange)
+![Static Badge](https://img.shields.io/badge/Python-purple)
+![Static Badge](https://img.shields.io/badge/ArcPy-brown)
+![Static Badge](https://img.shields.io/badge/SQL-white)
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-yellow)
+![Static Badge](https://img.shields.io/badge/HTML-pink)
+![Static Badge](https://img.shields.io/badge/CSS-red)
+![Static Badge](https://img.shields.io/badge/MS%20Office-black)
+
 ## Fun Facts
 1. I love animals, nature and somewhat controversially in the Geography realm - **history**! 
 2. I got way too excited when finding a mushroom whilst on my BSc dissertation fieldwork. :joy:
@@ -13,7 +25,7 @@ My name is Sian and I am a GIS Analyst who loves to work with data and create in
 
 ## How to find me? 
 
-Email - [Email](sianelake@gmail.com) 
+Email - sianelake@gmail.com
 <br>
 LinkedIn - [LinkedIn](https://www.linkedin.com/in/sianlake)
 
