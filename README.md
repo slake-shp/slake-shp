@@ -27,7 +27,7 @@ My name is Sian and I am a GIS Analyst who loves to work with data and create in
 
 Email - sianelake@gmail.com
 <br>
-LinkedIn - [LinkedIn](https://www.linkedin.com/in/sianlake)
+LinkedIn - [LinkedIn](https://www.linkedin.com/in/sian.lake)
 
 <!--
 **slake-shp/slake-shp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
